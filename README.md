@@ -45,7 +45,7 @@ function styleAndCelebrate(color,background,fontSize,txt,reason) {
 
 
 ## LABORATORIO 2 MODULO 3 PROGRAMACION ORIENTADA A OBJETOS
-
+# clase persona
 class Person {
   constructor(name = "Tom", age = 20, energy = 100) {
     this.name = name;
@@ -89,7 +89,7 @@ function manager() {
 
 ## LABORATORIO 3 MODULO 3 -- ITERAR SOBRE UNA MATRIZ
 
-// Task 1
+# Task 1
 var dairy = ['cheese', 'sour cream', 'milk', 'yogurt', 'ice cream', 'milkshake']
 
 function logDairy() {
@@ -99,7 +99,7 @@ function logDairy() {
 }
 logDairy(); 
 
-// Task 2
+# Task 2
 console.log("// Task 2");
 const animal = {
 
@@ -120,7 +120,7 @@ function birdCan() {
     }
 }
 birdCan();
-// Task 3
+# Task 3
 console.log("//n Task 3");
 
 
